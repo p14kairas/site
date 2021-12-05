@@ -23,6 +23,6 @@ slides:
   - reactable-music
   - reactivision-simulator
   - reactable-fountain
-  - raspberry pi
+  - retropie
 ---
 
