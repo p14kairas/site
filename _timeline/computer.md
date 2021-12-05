@@ -24,5 +24,5 @@ events:
   - weiser-tab-pad-board
   - arduino-lilypad
   - digital-desk
-  - raspberry pi
+  - retropie
 ---
